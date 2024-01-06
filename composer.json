@@ -1,0 +1,16 @@
+{
+    "name": "fabioversaobeta/dungeons-and-dragons-magics",
+    "description": "App that create cards with D&D Magics",
+    "authors": [
+        {
+            "name": "Fabio Bandacheski",
+            "email": "fabio.versao.beta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
